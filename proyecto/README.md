@@ -1,4 +1,21 @@
 # semillero_ias-clase-1
+
+Actividad 1
+
+
+
+1.	Crear una aplicación en Spring boot utilizando start.spring.io que tenga como dependencia Spring Web, con versión 11 de Java y que utilice Gradle como gestor de dependencias.
+2.	Crear una clase que sirva como controlador, agregarle la anotación pertinente para este fin. 
+3.	Dentro de la clase controlador, agregar el código necesario para lo siguiente:
+a.	Un método para  la url “/products” y el método HTTP GET, que devuelve el mensaje “Este es el método para consultar todos los productos”
+b.	Un método para  la url “/products” y el método HTTP POST, que devuelve el mensaje “Este es el método para crear un producto”
+c.	Un método para  la url “/products” y el método HTTP PUT, que devuelve el mensaje “Este es el método para actualizar un producto”
+d.	Un método para  la url “/products” y el método HTTP DELETE, que devuelve el mensaje “Este es el método para eliminar un producto”
+
+
+
+
+
 GET
 ![1](https://user-images.githubusercontent.com/89054795/157251286-39b104ca-d6a0-45f3-b6ef-307289b504b8.png)
 
