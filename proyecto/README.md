@@ -5,7 +5,12 @@ Actividad 1
 
 
 1.	Crear una aplicación en Spring boot utilizando start.spring.io que tenga como dependencia Spring Web, con versión 11 de Java y que utilice Gradle como gestor de dependencias.
+
+
+
 2.	Crear una clase que sirva como controlador, agregarle la anotación pertinente para este fin. 
+
+
 3.	Dentro de la clase controlador, agregar el código necesario para lo siguiente:
 a.	Un método para  la url “/products” y el método HTTP GET, que devuelve el mensaje “Este es el método para consultar todos los productos”
 b.	Un método para  la url “/products” y el método HTTP POST, que devuelve el mensaje “Este es el método para crear un producto”
