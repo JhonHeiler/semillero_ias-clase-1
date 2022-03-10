@@ -21,6 +21,9 @@ d.	Un método para  la url “/products” y el método HTTP DELETE, que devuelv
 
 
 
+
+
+
 GET
 ![1](https://user-images.githubusercontent.com/89054795/157251286-39b104ca-d6a0-45f3-b6ef-307289b504b8.png)
 
